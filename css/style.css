@@ -91,6 +91,15 @@ header {
     border-color: #6cc4ae;
 }
 
+.cross {
+    color: red;
+    border-radius: 50%;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-color: red;
+}
+
 .blue-btn {
     background-color: #47adf1;
     border: 1px transparent;
