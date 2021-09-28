@@ -85,7 +85,10 @@ header {
 .tick {
     color: #6cc4ae;
     border-radius: 50%;
-    
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-color: #6cc4ae;
 }
 
 .blue-btn {
