@@ -38,15 +38,12 @@ header {
 .main-container {
     width: 70%;
     margin: auto;
-    border: 1px transparent;
     background-color: white;
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
+    border-bottom: 2px solid lightgray;
 }
 
-hr  {
-    width: 70%;
-    margin: auto;
-}
+
 
