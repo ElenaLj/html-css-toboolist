@@ -45,5 +45,18 @@ header {
     border-bottom: 2px solid lightgray;
 }
 
+#btn-1 {
+    background-color: #47adf1;
+    border: 1px transparent;
+    padding: 5px;
+    border-radius: 2px;
+    color: white;
+}
 
-
+#btn-2 {
+    background-color: white;
+    border: 1px solid lightgrey;
+    padding: 5px;
+    border-radius: 2px;
+    color: lightgray;
+}
