@@ -118,3 +118,21 @@ header {
     color: white;
     margin-left: 5px;
 }
+
+.pink-btn {
+    background-color: #d863a1;
+    border: 1px transparent;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+}
+
+.lime-btn {
+    background-color: #b0c926;
+    border: 1px transparent;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+}
