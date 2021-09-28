@@ -91,3 +91,30 @@ header {
     color: white;
     margin-left: 5px;
 }
+
+.purple-btn {
+    background-color: #9c72e4;
+    border: 1px transparent;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+}
+
+.green-btn {
+    background-color: #64c0a9;
+    border: 1px transparent;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+}
+
+.orange-btn {
+    background-color: #f29e33;
+    border: 1px transparent;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5px;
+}
