@@ -8,11 +8,13 @@
 
 body {
     font-family: 'Lato', sans-serif;
+    background-color: #f0f0f0;
 }
 
 /* *** header *** */
 header {
     height: 100px;
+    background-color: white;
 }
 
 .container {
@@ -29,4 +31,7 @@ header {
     display: inline-block;
     font-size: 50px;
     vertical-align: middle;
+    font-weight: 700;
 }
+
+/* *** main *** */
