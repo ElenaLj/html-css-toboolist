@@ -82,6 +82,7 @@ header {
     display: block;
 }
 
+    /* *** set up delle spunte e croci *** */
 .tick {
     color: #6cc4ae;
     border-radius: 50%;
@@ -100,6 +101,7 @@ header {
     border-color: red;
 }
 
+    /* *** set up dei tasti colorati *** */
 .blue-btn {
     background-color: #47adf1;
     border: 1px transparent;
