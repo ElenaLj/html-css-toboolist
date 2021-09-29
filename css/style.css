@@ -71,34 +71,30 @@ header {
     padding: 20px 50px;
 }
 
-.to-do {
+.tasks {
+    display: block;
     font-size: 25px;
     font-weight: 700;
-    margin: 15px 0;
 }
-
-.checked {
-    margin: 15px 0;
-    display: block;
-}
-
     /* *** set up delle spunte e croci *** */
-.tick {
-    color: #6cc4ae;
+.checkmark {
+    color: #70c6b1;
+    border: 1px solid #70c6b1;
     border-radius: 50%;
     display: inline-block;
-    width: 30px;
-    height: 30px;
-    border-color: #6cc4ae;
+    width: 25px;
+    height: 25px;
+    text-align: center;
 }
 
 .cross {
     color: red;
+    border: 1px solid red;
     border-radius: 50%;
     display: inline-block;
-    width: 30px;
-    height: 30px;
-    border-color: red;
+    width: 25px;
+    height: 25px;
+    text-align: center;
 }
 
     /* *** set up dei tasti colorati *** */
